@@ -1,0 +1,20 @@
+{
+    "name": "mhughes2k/semver-extended",
+    "description": "Extended Semver",
+    "type": "library",
+    "require": {
+        "composer/semver": "^3.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mhughes2k\\SemverExtended\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael hughes",
+            "email": "michaelhughes@strath.ac.uk"
+        }
+    ]
+}
