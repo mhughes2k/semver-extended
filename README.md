@@ -1,0 +1,2 @@
+# Semver-extended
+This is a helper class to the `composer/semver` library that adds some additional helpers to support sorting of mixed version lists, and to support arrays that are indexed by a semantic version key.
